@@ -61,4 +61,4 @@
 
 Meer uitgebreide richtlijnen zijn
 [hier](https://github.com/CLARIAH/software-quality-guidelines) vastgelegd in
-het kader van het CLARIAH project, belangrijke aspecten als testbaarheid en interoperabiliteit zijn bv. nog niet meegenomen in het bovenstaande lijstje.
+het kader van het CLARIAH project, belangrijke aspecten als testbaarheid, modulariteit, herbruikbaarheid en interoperabiliteit zijn bv. nog niet meegenomen in het bovenstaande lijstje.
